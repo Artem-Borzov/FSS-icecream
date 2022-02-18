@@ -3,4 +3,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{"./../images/advantages-icon1-mob@1x.png":[["advantages-icon1-mob@1x.28b56f7e.png","Fe1G"],"Fe1G"],"./../images/advantages-icon2-mob@1x.png":[["advantages-icon2-mob@1x.937ed094.png","qLni"],"qLni"],"./../images/advantages-icon3-mob@1x.png":[["advantages-icon3-mob@1x.c76fbf7b.png","bQGp"],"bQGp"]}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss");
 },{"./sass/main.scss":"clu1"}]},{},["Focm"], null)
-//# sourceMappingURL=/FSS-icecream/src.ab5dbd14.js.map
+//# sourceMappingURL=/FSS-icecream/src.c9ccea64.js.map
