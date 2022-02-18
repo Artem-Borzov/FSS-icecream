@@ -3,4 +3,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{"./../images/advantages-icon1-mob@1x.png":[["advantages-icon1-mob@1x.28b56f7e.png","Fe1G"],"Fe1G"],"./../images/advantages-icon2-mob@1x.png":[["advantages-icon2-mob@1x.937ed094.png","qLni"],"qLni"],"./../images/advantages-icon3-mob@1x.png":[["advantages-icon3-mob@1x.c76fbf7b.png","bQGp"],"bQGp"],"./../images/double-quote.svg":[["double-quote.6cf5c3b2.svg","WfhB"],"WfhB"],"./../images/3dots.svg":[["3dots.ac49ee34.svg","o3Fc"],"o3Fc"],"./../images/gray-ellipse.svg":[["gray-ellipse.f30e8d22.svg","Dx2q"],"Dx2q"],"./../images/home.svg":[["home.b856893d.svg","VKcl"],"VKcl"]}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss");
 },{"./sass/main.scss":"clu1"}]},{},["Focm"], null)
-//# sourceMappingURL=/FSS-icecream/src.cb9e6aae.js.map
+//# sourceMappingURL=/FSS-icecream/src.c102583d.js.map
